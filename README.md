@@ -1,4 +1,4 @@
-# ✏️  My Java learning route!]
+# ✏️  My Java learning route!
 记录我的Java学习之路！
 
 ## 1. Effetive java
